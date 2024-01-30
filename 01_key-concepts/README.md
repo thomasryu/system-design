@@ -1,3 +1,5 @@
+# Key Concepts
+
 ## 1. Web Server
 
 Web servers receive traffic from both mobile and web applications. They are responsible for handling tasks such as returning web pages, performing data requests, and executing business logic.
